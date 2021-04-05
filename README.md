@@ -8,4 +8,4 @@
   and express node (backend) mongodb (database)
 
 - Login / Register Screen
-![Test Image 1](images/1.png)
+![](images/1.png | width=100)
