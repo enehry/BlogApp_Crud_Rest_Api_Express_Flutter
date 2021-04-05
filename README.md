@@ -7,5 +7,15 @@
   you can add create delete update your post using the app(frontend, flutter)
   and express node (backend) mongodb (database)
 
+- HTTP REQUEST
+ <img src="/images/http_request.jpg" width="300"> 
+
 - Login / Register Screen
-<img src="/images/1.png" width="300"> | <img src="/images/2.png" width="300">
+<p float="left">
+<img src="/images/1.png" width="300">  <img src="/images/2.png" width="300">
+ </p>
+
+- Home Screen / CRUD
+<p float="left">
+<img src="/images/3.png" width="300">  <img src="/images/4.png" width="300"> <img src="/images/4.png" width="300">
+ </p>
