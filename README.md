@@ -8,6 +8,4 @@
   and express node (backend) mongodb (database)
 
 - Login / Register Screen
-{:refdef: style="width: 10px; height: 10px"}
-![login_screen](/images/1.png){:height="200px"} ![register_screen](/images/2.png){:height="200px"}
-{: refdef}
+<img src="/images/1.png" width="100" height="100">
