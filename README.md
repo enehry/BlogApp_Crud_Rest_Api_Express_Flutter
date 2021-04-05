@@ -8,7 +8,7 @@
   and express node (backend) mongodb (database)
 
 - HTTP REQUEST
- <img src="/images/http_request.jpg" width="300"> 
+ <img src="/images/http_request.JPG" width="300"> 
 
 - Login / Register Screen
 <p float="left">
