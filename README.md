@@ -8,4 +8,4 @@
   and express node (backend) mongodb (database)
 
 - Login / Register Screen
-<img src="/images/1.png" width="100" height="100">
+<img src="/images/1.png" width="300">
