@@ -1,4 +1,4 @@
-# BlogApp_Crud_Rest_Api_Express_Flutter
+# BlogApp Crud Rest Api Express Flutter
   RESTFUL API using express node as a backend and flutter as a front end
   JWT auth for user login.
 
